@@ -1,4 +1,4 @@
-#Hello everyone! 👋
+###Hello everyone! 👋
 
 Allow me to introduce myself, my name is **Nabiila Widya Khoirunissa**.
 
@@ -6,3 +6,14 @@ I am currently a 6th-semester student majoring in Informatics Engineering at Uni
 
 Presently, I am participating in the Independent Study Program at Bangkit Academy 2024 Batch 1 as part of the Mobile Development Cohort.
 
+###Github Statistic
+<p align="left">
+<a href="https://github.com/nabiilawidya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+###Reach me on
+- <a href="www.linkedin.com/in/nabiila-widya-khoirunissa">LinkedIn</a>
+- nabiilawidya7702@gmail.com
