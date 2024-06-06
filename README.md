@@ -13,7 +13,3 @@ Presently, I am participating in the Independent Study Program at Bangkit Academ
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on
-- <a href="www.linkedin.com/in/nabiila-widya-khoirunissa">LinkedIn</a>
-- nabiilawidya7702@gmail.com
